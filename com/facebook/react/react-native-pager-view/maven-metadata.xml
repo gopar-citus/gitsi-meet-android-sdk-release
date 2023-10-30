@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-pager-view</artifactId>
+  <versioning>
+    <latest>6.2.0-jitsi-15234744</latest>
+    <release>6.2.0-jitsi-15234744</release>
+    <versions>
+      <version>6.2.0-jitsi-15191872</version>
+      <version>6.2.0-jitsi-15198879</version>
+      <version>6.2.0-jitsi-15198955</version>
+      <version>6.2.0-jitsi-15199007</version>
+      <version>6.2.0-jitsi-15199379</version>
+      <version>6.2.0-jitsi-15199465</version>
+      <version>6.2.0-jitsi-15199793</version>
+      <version>6.2.0-jitsi-15199976</version>
+      <version>6.2.0-jitsi-15200016</version>
+      <version>6.2.0-jitsi-15200164</version>
+      <version>6.2.0-jitsi-15201320</version>
+      <version>6.2.0-jitsi-15201504</version>
+      <version>6.2.0-jitsi-15207037</version>
+      <version>6.2.0-jitsi-15207163</version>
+      <version>6.2.0-jitsi-15208383</version>
+      <version>6.2.0-jitsi-15208776</version>
+      <version>6.2.0-jitsi-15209138</version>
+      <version>6.2.0-jitsi-15209578</version>
+      <version>6.2.0-jitsi-15209893</version>
+      <version>6.2.0-jitsi-15210095</version>
+      <version>6.2.0-jitsi-15210228</version>
+      <version>6.2.0-jitsi-15233628</version>
+      <version>6.2.0-jitsi-15233963</version>
+      <version>6.2.0-jitsi-15234648</version>
+      <version>6.2.0-jitsi-15234670</version>
+      <version>6.2.0-jitsi-15234744</version>
+    </versions>
+    <lastUpdated>20231030054404</lastUpdated>
+  </versioning>
+</metadata>
